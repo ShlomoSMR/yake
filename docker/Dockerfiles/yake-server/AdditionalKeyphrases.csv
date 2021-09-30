@@ -1,0 +1,5 @@
+DomainCode,Keyphrase,Language,Score
+test1,content,en,0.01
+test2,world,en,0.1
+test1,important ,en,0.1
+test1,new ,en,0.1

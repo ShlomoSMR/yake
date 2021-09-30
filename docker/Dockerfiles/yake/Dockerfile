@@ -10,6 +10,5 @@ RUN apk update && apk upgrade && \
 
 # install yake via pip
 RUN pip install git+https://github.com/liaad/yake.git
-
 # set default command
 ENTRYPOINT ["yake"]
